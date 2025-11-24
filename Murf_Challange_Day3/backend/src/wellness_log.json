@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-11-24T00:15:24",
+    "mood": "Stressed about exams",
+    "energy": "Lower",
+    "stresses": [
+      "Exam preparation"
+    ],
+    "goals": [
+      "Focus on exam preparation"
+    ],
+    "selfcare": [
+      "Take a 10-15 minute break"
+    ],
+    "summary": "User is stressed about exams and plans to take a short break."
+  },
+  {
+    "timestamp": "2025-11-24T00:19:22",
+    "mood": "Good",
+    "energy": "Medium",
+    "stresses": [
+      "None"
+    ],
+    "goals": [
+      "Making a simple project in React"
+    ],
+    "selfcare": [
+      "Engaging in a hobby"
+    ],
+    "summary": "User's mood is good with medium energy, aiming to work on a React project as a hobby."
+  },
+  {
+    "timestamp": "2025-11-24T13:46:51",
+    "mood": "Stressed about exam",
+    "energy": "Medium",
+    "stresses": [
+      "Exam tomorrow"
+    ],
+    "goals": [
+      "Prepare for exam"
+    ],
+    "selfcare": [
+      "Take short breaks during preparation"
+    ],
+    "summary": "The user is feeling stressed about an upcoming exam and plans to prepare for it while taking short breaks."
+  }
+]
