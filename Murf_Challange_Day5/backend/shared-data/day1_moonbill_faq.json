@@ -1,0 +1,38 @@
+[
+  {
+    "id": "what_is_moonbill",
+    "question": "What does Moonbill do?",
+    "answer": "Moonbill is an Indian SaaS startup that helps businesses manage online payments, subscriptions, and invoicing in one place. You can create plans, collect recurring payments, and track revenue without writing complex code.",
+    "tags": ["what", "product", "do", "overview"]
+  },
+  {
+    "id": "who_is_it_for",
+    "question": "Who is Moonbill for?",
+    "answer": "Moonbill is built for Indian startups, SaaS companies, agencies, and small to mid-sized businesses that collect recurring payments or want a simple billing system.",
+    "tags": ["who", "for", "target", "audience", "customers"]
+  },
+  {
+    "id": "pricing_basic",
+    "question": "How does your pricing work?",
+    "answer": "Moonbill has three simple plans: Starter, Growth, and Scale. Starter is best for early-stage teams, Growth for scaling startups, and Scale for larger teams that need advanced controls. Pricing details are usually shared by our sales team based on your use case.",
+    "tags": ["pricing", "plans", "cost"]
+  },
+  {
+    "id": "free_tier",
+    "question": "Do you have a free tier?",
+    "answer": "Yes, Moonbill offers a free Starter tier with basic features and a usage limit, so you can experiment before upgrading.",
+    "tags": ["free", "trial", "starter"]
+  },
+  {
+    "id": "integration",
+    "question": "How does integration work?",
+    "answer": "Moonbill offers REST APIs, SDKs for popular languages, and no-code checkout links. Most teams can go live in a day or two.",
+    "tags": ["integration", "api", "setup"]
+  },
+  {
+    "id": "support",
+    "question": "What kind of support do you provide?",
+    "answer": "We provide email support for all customers and priority Slack support for Growth and Scale plans.",
+    "tags": ["support", "help", "contact"]
+  }
+]
