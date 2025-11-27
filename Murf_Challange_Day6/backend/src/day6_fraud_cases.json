@@ -1,0 +1,36 @@
+[
+  {
+    "userName": "John",
+    "securityIdentifier": "SG-001",
+    "cardEnding": "4242",
+    "transactionAmount": "\u20b94,999.00",
+    "transactionCurrency": "INR",
+    "merchantName": "ABC Digital Store",
+    "transactionLocation": "Mumbai, India",
+    "transactionTime": "2025-11-20T18:45:00",
+    "transactionCategory": "e-commerce",
+    "transactionSource": "alibaba.com",
+    "securityQuestion": "What is your favourite color?",
+    "securityAnswer": "blue",
+    "status": "confirmed_safe",
+    "outcomeNote": "Customer confirmed the transaction is legitimate.",
+    "updatedAt": "2025-11-27T20:39:10"
+  },
+  {
+    "userName": "Priya",
+    "securityIdentifier": "SG-002",
+    "cardEnding": "8931",
+    "transactionAmount": "\u20b912,250.00",
+    "transactionCurrency": "INR",
+    "merchantName": "Urban Style Boutique",
+    "transactionLocation": "Bengaluru, India",
+    "transactionTime": "2025-11-21T10:15:00",
+    "transactionCategory": "fashion",
+    "transactionSource": "urbanstyle.example.com",
+    "securityQuestion": "What city were you born in?",
+    "securityAnswer": "pune",
+    "status": "confirmed_fraud",
+    "outcomeNote": "Customer denied the transaction; mock card block and dispute.",
+    "updatedAt": "2025-11-27T20:40:55"
+  }
+]
