@@ -1,0 +1,22 @@
+{
+  "customer_name": "john",
+  "address": "Kolkata",
+  "items": [
+    {
+      "id": "bread_wholewheat",
+      "name": "Whole Wheat Bread",
+      "qty": 1,
+      "price": 45,
+      "subtotal": 45
+    },
+    {
+      "id": "milk_fullcream",
+      "name": "Full Cream Milk 1L",
+      "qty": 1,
+      "price": 65,
+      "subtotal": 65
+    }
+  ],
+  "total": 110,
+  "timestamp": "2025-11-28T20:49:28.544877"
+}

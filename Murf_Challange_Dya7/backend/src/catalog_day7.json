@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bread_wholewheat",
+    "name": "Whole Wheat Bread",
+    "category": "Groceries",
+    "price": 45,
+    "tags": ["bread"]
+  },
+  {
+    "id": "milk_fullcream",
+    "name": "Full Cream Milk 1L",
+    "category": "Groceries",
+    "price": 65,
+    "tags": ["milk", "dairy"]
+  },
+  {
+    "id": "eggs_large",
+    "name": "Large Eggs (6-pack)",
+    "category": "Groceries",
+    "price": 70,
+    "tags": ["eggs"]
+  },
+  {
+    "id": "peanut_butter",
+    "name": "Peanut Butter (Crunchy)",
+    "category": "Groceries",
+    "price": 150,
+    "tags": ["peanutbutter"]
+  },
+  {
+    "id": "pasta_spaghetti",
+    "name": "Spaghetti Pasta 500g",
+    "category": "Groceries",
+    "price": 90,
+    "tags": ["pasta"]
+  },
+  {
+    "id": "tomato_sauce",
+    "name": "Tomato Pasta Sauce",
+    "category": "Groceries",
+    "price": 120,
+    "tags": ["sauce"]
+  },
+  {
+    "id": "chips_salt",
+    "name": "Salted Potato Chips",
+    "category": "Snacks",
+    "price": 30,
+    "tags": ["chips", "snacks"]
+  },
+  {
+    "id": "chocolate_dark",
+    "name": "Dark Chocolate Bar",
+    "category": "Snacks",
+    "price": 55,
+    "tags": ["chocolate"]
+  },
+  {
+    "id": "veg_sandwich",
+    "name": "Vegetable Sandwich",
+    "category": "Prepared Food",
+    "price": 80,
+    "tags": ["sandwich"]
+  },
+  {
+    "id": "cheese_pizza",
+    "name": "Cheese Pizza",
+    "category": "Prepared Food",
+    "price": 199,
+    "tags": ["pizza"]
+  }
+]
